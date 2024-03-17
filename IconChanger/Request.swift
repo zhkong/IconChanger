@@ -80,7 +80,7 @@ class MyQueryRequestController {
 
         // Headers
         request.addValue("P1TXH7ZFB3", forHTTPHeaderField: "x-algolia-application-id")
-        request.addValue("0ba04276e457028f3e11e38696eab32c", forHTTPHeaderField: "x-algolia-api-key")
+        request.addValue("372f49b3eff864ccc6f268a82f1901cc", forHTTPHeaderField: "x-algolia-api-key")
         request.addValue("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.5 Safari/605.1.15", forHTTPHeaderField: "User-Agent")
         request.addValue("https://macosicons.com", forHTTPHeaderField: "Origin")
 
